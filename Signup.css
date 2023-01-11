@@ -1,0 +1,256 @@
+
+*{
+    box-sizing: border-box;
+}
+.backgrd{
+    position:absolute;
+    background-color: #47455A;
+    width: 50%;
+    height:134%;
+    margin-left: 0px;
+    margin-top: 0px;
+
+}
+.heading1{
+    position:absolute;
+    width: 645px;
+    height: 128px;
+    margin-left:22px;
+    margin-top: 60px;
+    line-height: 45px;
+
+}
+.limg{
+    margin-top: 40px;
+}
+.row{
+    display:flex;
+    flex: 1;
+    height:100%;
+    width:100% ;
+
+}
+.col-lg-6{
+    flex: 1;
+    display:flex;
+    height: 100%;
+    width: 100%;
+}
+.homeimg{
+    position: absolute;
+    width: 480px;
+    height:80vh;
+    margin-left:152px;
+    margin-top: 306px;
+    border-radius: 20px 0px 0px 0px;
+}
+.formcs{
+    color: green;
+}
+.card-title h2{
+    text-align: center;
+    margin-top: -6px;
+}
+.formh2{
+    margin-left:30px;
+}
+.formp{
+    margin-left: 30px;
+    margin-top: -8px;
+}
+
+
+.forml1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 230px;
+    height: 50px;
+    /* background:#a7a8a9; */
+    margin-top: 40px;
+    margin-left: 40px;
+    border:1px solid #47455A;
+    border-radius: 14px;
+    /* border-color:#F2F4F8 ; */
+    border-style: none;
+    padding:1rem
+}
+.formip1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 230px;
+    height: 50px;
+    background:#9fa3aa;
+    margin-top: 100px;
+    margin-left: 40px;
+    border: solid;
+    border-radius: 12px;
+    /* border-color:#F2F4F8 ; */
+    border-style: none;
+    padding:1rem
+}
+.forml2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 230px;
+    height: 50px;
+    /* background:#a7a8a9; */
+    margin-top: 40px;
+    margin-left: 310px;
+    border:1px solid #47455A;
+    border-radius: 14px;
+    /* border-color:#F2F4F8 ; */
+    border-style: none;
+    padding:1rem
+}
+.formip2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 230px;
+    height: 50px;
+    background:#9fa3aa;
+    margin-top: 100px;
+    margin-left: 310px;
+    border-radius: 12px;
+    border: 1px solid #78797b;
+    border-radius: 10px;
+    padding: 1rem;
+    }
+.forml3{
+        box-sizing: border-box;
+        position: absolute;
+        width: 230px;
+        height: 50px;
+        /* background:#a7a8a9; */
+        margin-top: 180px;
+        margin-left: 40px;
+        border:1px solid #47455A;
+        border-radius: 14px;
+        /* border-color:#F2F4F8 ; */
+        border-style: none;
+        padding:1rem
+    }
+.formip3{
+        box-sizing: border-box;
+        position: absolute;
+        width: 230px;
+        height: 50px;
+        margin-left: 40px;
+        margin-top:240px ;
+        background: #9fa3aa;
+        border: 1px solid #78797b;
+        border-radius: 10px;
+        padding: 1rem;
+        }
+.forml4{
+            box-sizing: border-box;
+            position: absolute;
+            width: 230px;
+            height: 50px;
+            /* background:#a7a8a9; */
+            margin-top: 180px;
+            margin-left: 310px;
+            border:1px solid #47455A;
+            border-radius: 14px;
+            /* border-color:#F2F4F8 ; */
+            border-style: none;
+            padding:1rem
+        }
+        .formip4{
+            box-sizing: border-box;
+            position: absolute;
+            width: 230px;
+            height: 50px;
+            background:#9fa3aa;
+            margin-top: 240px;
+            margin-left: 310px;
+            border-radius: 12px;
+            border: 1px solid #78797b;
+            border-radius: 10px;
+            padding: 1rem;
+            }
+        .forml5{
+                box-sizing: border-box;
+                position: absolute;
+                width: 230px;
+                height: 50px;
+                /* background:#a7a8a9; */
+                margin-top: 320px;
+                margin-left: 40px;
+                border:1px solid #47455A;
+                border-radius: 14px;
+                /* border-color:#F2F4F8 ; */
+                border-style: none;
+                padding:1rem
+            }
+            .formip5{
+                box-sizing: border-box;
+                position: absolute;
+                width: 230px;
+                height: 50px;
+                background:#9fa3aa;
+                margin-top: 380px;
+                margin-left: 40px;
+                border-radius: 12px;
+                border: 1px solid #78797b;
+                border-radius: 10px;
+                padding: 1rem;
+                }
+                .forml6{
+                    box-sizing: border-box;
+                    position: absolute;
+                    width: 230px;
+                    height: 50px;
+                    /* background:#a7a8a9; */
+                    margin-top: 320px;
+                    margin-left: 310px;
+                    border:1px solid #47455A;
+                    border-radius: 14px;
+                    /* border-color:#F2F4F8 ; */
+                    border-style: none;
+                    padding:1rem
+                }
+                .formip6{
+                    box-sizing: border-box;
+                    position: absolute;
+                    width: 230px;
+                    height: 50px;
+                    background:#9fa3aa;
+                    margin-top: 380px;
+                    margin-left: 310px;
+                    border-radius: 12px;
+                    border: 1px solid #78797b;
+                    border-radius: 10px;
+                    padding: 1rem;
+                    }
+                    .lastdiv{
+                        text-align: center;
+                        width: auto;
+                        margin-top: 113px;
+                        margin-left: 40px;
+                    }
+                    .col1-6{
+                        width: fit-content;
+                        margin-left: 220px;
+                    }
+                     .col2-6{   width: fit-content;
+                        margin-left: 90px;
+                        margin-top: -379px;
+                        }
+                
+                    .lastp{
+                        margin-left: -242px;
+                        margin-top: 339px;
+                    }
+                    .cbtn{
+                        background: #47455A;
+                        border-radius: 90px;
+                        color:white;
+                        width: 199px;
+                       height: 50px;
+                       border-color:#47455A;
+                       box-shadow: none;
+                       margin-top: 339px;
+                       margin-left: 214px;
+                        
+                    }
+    
